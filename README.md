@@ -2,5 +2,5 @@
 This is my first repository
 <br>
 
-Author - Himanshu sahu (IPS ACADEMEY )
+Author - Himanshu sahu (STUDENT OF IPS ACADEMEY )
 
